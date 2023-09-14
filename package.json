@@ -1,0 +1,16 @@
+{
+  "name": "compare-yaml",
+  "module": "compare-yaml.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0"
+  }
+}
